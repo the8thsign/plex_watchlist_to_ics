@@ -25,10 +25,9 @@ pip install -r requirements.txt
 
 ## Getting your Plex Watchlist Feed URL
 
-1. Go to [https://rss.plex.tv/](https://rss.plex.tv/)
+1. Go to [https://app.plex.tv/desktop/#!/settings/watchlist](https://app.plex.tv/desktop/#!/settings/watchlist)
 2. Sign in with your Plex account
-3. Select your library to generate your personal RSS feed URL
-4. Copy the URL (it will look like `https://rss.plex.tv/YOUR_ID`)
+3. Copy the URL (it will look like `https://rss.plex.tv/YOUR_ID`)
 
 ## Usage
 
