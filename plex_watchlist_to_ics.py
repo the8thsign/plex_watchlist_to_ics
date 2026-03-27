@@ -22,7 +22,7 @@ from xml.etree import ElementTree as ET
 import requests
 
 
-FEED_URL_DEFAULT = "https://rss.plex.tv/1bf22d42-d5e4-4bd6-92c1-0e0ac05729a2"
+FEED_URL_DEFAULT = "https://rss.plex.tv/YOUR_FEED_URL_HERE"
 TZID_DEFAULT = "America/New_York"
 
 
