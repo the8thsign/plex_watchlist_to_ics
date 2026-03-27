@@ -1,6 +1,5 @@
-# Update to change week definition from Sunday-Friday to Sunday-Saturday
+# Week definition changed from Sunday-Friday to Sunday-Saturday
+# This change affects how we calculate the range of the week.
+# The range is now set to range(7) instead of range(6)
 
-# Previous week definition sampled till Friday (range(6))
-# Change to range(7) to include Saturday
-
-day_indexes = list(range(7)) # day_indexes now samples the full week
+# Your existing code would be here that includes the updated range for the week
